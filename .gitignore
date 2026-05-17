@@ -1,0 +1,11 @@
+bin/
+obj/
+*.suo
+*.user
+*.userosscache
+*.ilk
+*.pdb
+x64
+*.exe
+*.cache
+*.log
