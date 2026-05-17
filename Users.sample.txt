@@ -1,0 +1,7 @@
+FirstName#//#LastName#//#email@example.com#//#0123456789#//#sampleuser1#//#password123#//#0
+Alice#//#Smith#//#alice@example.com#//#0555123456#//#alice#//#password123#//#64
+Bob#//#Jones#//#bob@example.com#//#0555987654#//#bob#//#password123#//#-1
+
+--
+This is a sanitized sample file showing the expected record format for `Users.txt`.
+Fields: FirstName#//#LastName#//#Email#//#Phone#//#UserName#//#Password#//#Permissions
